@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Do What You Say You Will Do
-cover-img: "shaikhon.github.io/images/code_lite.jpg"
+cover-img: "/assets/img/code_lite.jpg"
 
 ---
 
