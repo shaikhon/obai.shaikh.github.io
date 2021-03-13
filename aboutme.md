@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Do What You Say You Will Do
 cover-img: "/assets/img/code_lite.jpg"
-
+avatar: "/assets/img/me_square.png"
 ---
 
 This is a test, but I have the following qualities:
